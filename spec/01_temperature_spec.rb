@@ -20,7 +20,7 @@ describe "temperature conversion functions" do
       expect(ftoc(68)).to eq(20)
     end
 
-  end
+  
 
   describe "#ctof" do
 
